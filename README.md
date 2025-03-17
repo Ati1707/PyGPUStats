@@ -18,7 +18,6 @@ A Python library for easy retrieval and monitoring of NVIDIA GPU statistics usin
   - Get first GPU
   - Get specific number of GPUs
   - Get GPU by ID
-- Simple, object-oriented interface
 - Automatic data refresh on each request
 
 ## Requirements
